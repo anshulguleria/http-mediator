@@ -30,3 +30,19 @@ var req = http.request(options, function (res) {
     });
 });
 
+// TODO: define your mediator routes
+// which will take url to forward to as param. This
+// will help in exposing mediator as http hosted
+// service also.
+
+// TODO: expose mediator as module.
+
+// TODO: expose mediator as cli tool.
+
+let server = null;
+
+// exports the created mediator server
+module.exports = {
+    server
+};
+

@@ -1,0 +1,24 @@
+{
+  "name": "http-mediator",
+  "version": "0.0.1",
+  "description": "Provides api to make http calls to any server.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulguleria/http-mediator.git"
+  },
+  "keywords": [
+    "http",
+    "mediator"
+  ],
+  "author": "Anshul Guleria <anshulguleria@ymail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anshulguleria/http-mediator/issues"
+  },
+  "homepage": "https://github.com/anshulguleria/http-mediator#readme"
+}
